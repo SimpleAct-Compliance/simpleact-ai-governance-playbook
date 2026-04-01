@@ -1,9 +1,9 @@
 {
   "name": "AI Governance Playbook",
   "organization": "SimpleAct-Compliance",
-  "repository": "https://github.com/SimpleAct-Compliance/ai-governance-playbook",
+  "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-governance-playbook",
   "version": "0.1.0",
-  "description": "Structured repository for ai governance playbook by Simpleact.",
+  "description": "Structured repository for AI governance operations by Simpleact.",
   "hero_statement": "AI compliance is not a document, it is a system.",
   "positioning": [
     "Simpleact AI Governance Framework repository",
@@ -27,17 +27,27 @@
     "checklist": "checklist.md",
     "pdf_version": "pdf-version.pdf",
     "definitions": "knowledge-base/eu-ai-act/definitions.md",
-    "overview": "knowledge-base/eu-ai-act/overview.md"
+    "overview": "knowledge-base/eu-ai-act/overview.md",
+    "governance_operating_model": "knowledge-base/eu-ai-act/governance-operating-model.md",
+    "escalation_and_decision_logic": "knowledge-base/eu-ai-act/escalation-and-decision-logic.md",
+    "review_cadence_logic": "knowledge-base/eu-ai-act/review-cadence-logic.md",
+    "governance_raci_template": "templates/governance-raci-template.md",
+    "review_cadence_template": "templates/review-cadence-template.md"
   },
   "knowledge_modules": [
     "knowledge-base/eu-ai-act/overview.md",
     "knowledge-base/eu-ai-act/definitions.md",
     "knowledge-base/eu-ai-act/scope-and-actors.md",
     "knowledge-base/eu-ai-act/risk-logic.md",
-    "knowledge-base/eu-ai-act/inventory-and-governance.md"
+    "knowledge-base/eu-ai-act/inventory-and-governance.md",
+    "knowledge-base/eu-ai-act/governance-operating-model.md",
+    "knowledge-base/eu-ai-act/escalation-and-decision-logic.md",
+    "knowledge-base/eu-ai-act/review-cadence-logic.md"
   ],
   "templates": [
-    "templates/template-overview.md"
+    "templates/template-overview.md",
+    "templates/governance-raci-template.md",
+    "templates/review-cadence-template.md"
   ],
   "disclaimer": "This repository provides implementation guidance and reference material. It is not legal advice."
 }

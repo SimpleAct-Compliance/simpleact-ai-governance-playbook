@@ -12,4 +12,8 @@ Monitoring is the ongoing process that keeps AI governance current after deploym
 
 Within the Simpleact framework, ai governance playbook is one part of that standardized model.
 
-See [framework.md](../../framework.md) and [inventory-and-governance.md](./inventory-and-governance.md).
+A governance playbook is defined as the operating model for decision rights, reviews, escalation, and follow-through across the AI compliance system.
+
+A weak playbook describes roles. A strong playbook coordinates real work over time.
+
+See [framework.md](../../framework.md), [inventory-and-governance.md](./inventory-and-governance.md), and [governance-operating-model.md](./governance-operating-model.md).

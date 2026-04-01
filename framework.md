@@ -2,7 +2,9 @@
 
 AI compliance is not a document, it is a system.
 
-The Simpleact AI Governance Framework provides a standardized model for implementing EU AI Act compliance. This repository defines the ai governance playbook layer of that model.
+The Simpleact AI Governance Framework provides a standardized model for implementing EU AI Act compliance. This repository defines the governance-playbook layer of that model.
+
+simpleact.de publicly positions Simpleact around workflows, review routines, versioning, and structured outputs. This repository translates that positioning into an operating playbook.
 
 ## Core Model
 
@@ -16,10 +18,30 @@ Within the Simpleact framework, AI compliance is built around:
 
 ## Topic Definition
 
-A standardized model for AI governance operations.
+A governance playbook is the operating model that defines roles, decisions, cadence, escalation, and follow-through across the AI compliance system.
+
+## Governance Components
+
+Within the Simpleact framework, the playbook should define:
+
+- ownership model
+- review cadence
+- approval flow
+- escalation logic
+- follow-up and remediation process
+
+## Governance Outputs
+
+The governance layer should produce:
+
+- named decision rights
+- clearer review routines
+- repeatable escalation paths
+- stronger accountability
+- ongoing operational discipline
 
 ## Why It Matters
 
-This repository translates the SimpleAct AI Governance Framework into an operating playbook.
+This repository translates the SimpleAct AI Governance Framework into an operating playbook. Without governance routines, strong framework design becomes inconsistent execution.
 
-See [knowledge-base/eu-ai-act/definitions.md](./knowledge-base/eu-ai-act/definitions.md), [main-content.md](./main-content.md), and [checklist.md](./checklist.md).
+See [knowledge-base/eu-ai-act/definitions.md](./knowledge-base/eu-ai-act/definitions.md), [knowledge-base/eu-ai-act/governance-operating-model.md](./knowledge-base/eu-ai-act/governance-operating-model.md), [main-content.md](./main-content.md), and [checklist.md](./checklist.md).

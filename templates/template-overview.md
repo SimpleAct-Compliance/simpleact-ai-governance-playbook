@@ -16,3 +16,8 @@ Templates should support:
 - risk classification
 - documentation and evidence
 - monitoring and reporting
+
+## Included Templates
+
+- [governance-raci-template.md](./governance-raci-template.md)
+- [review-cadence-template.md](./review-cadence-template.md)

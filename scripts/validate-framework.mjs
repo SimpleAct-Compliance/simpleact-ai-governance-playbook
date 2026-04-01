@@ -19,7 +19,12 @@ const requiredPaths = [
   "knowledge-base/eu-ai-act/scope-and-actors.md",
   "knowledge-base/eu-ai-act/risk-logic.md",
   "knowledge-base/eu-ai-act/inventory-and-governance.md",
+  "knowledge-base/eu-ai-act/governance-operating-model.md",
+  "knowledge-base/eu-ai-act/escalation-and-decision-logic.md",
+  "knowledge-base/eu-ai-act/review-cadence-logic.md",
   "templates/template-overview.md",
+  "templates/governance-raci-template.md",
+  "templates/review-cadence-template.md",
   "docs/repository-network.md"
 ];
 
