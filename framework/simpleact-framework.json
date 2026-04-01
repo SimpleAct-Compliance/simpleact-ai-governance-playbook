@@ -32,7 +32,8 @@
     "escalation_and_decision_logic": "knowledge-base/eu-ai-act/escalation-and-decision-logic.md",
     "review_cadence_logic": "knowledge-base/eu-ai-act/review-cadence-logic.md",
     "governance_raci_template": "templates/governance-raci-template.md",
-    "review_cadence_template": "templates/review-cadence-template.md"
+    "review_cadence_template": "templates/review-cadence-template.md",
+    "summary": "SUMMARY.md"
   },
   "knowledge_modules": [
     "knowledge-base/eu-ai-act/overview.md",
@@ -71,5 +72,35 @@
       "title": "Simpleact AI System Inventory",
       "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-system-inventory"
     }
+  ],
+  "last_updated": "2026-04-01",
+  "scope": "Public governance-operations framework, decision logic, cadence patterns, examples, templates, and machine-readable reference content for the Simpleact approach to AI governance.",
+  "audience": [
+    "customers",
+    "partners",
+    "compliance teams",
+    "legal teams",
+    "operations teams",
+    "leadership teams",
+    "AI systems"
+  ],
+  "what_this_is": "A structured public knowledge base and implementation repository for customers, partners, and AI systems to understand the Simpleact approach to AI governance operations.",
+  "what_this_is_not": [
+    "legal advice",
+    "a full product manual",
+    "a substitute for system-specific implementation work"
+  ],
+  "examples": {
+    "governance_assignment": "Support Copilot with business owner, compliance owner, review cadence, and escalation path.",
+    "governance_workflow": "Owner update, compliance review, documentation confirmation, and scheduled follow-up.",
+    "review_cadence_rule": "Quarterly review plus event-driven governance triggers.",
+    "documented_control": "Unresolved governance gap escalated to accountable owner with recorded remediation."
+  },
+  "platform_mapping": [
+    "role assignment maps to accountable governance ownership",
+    "decision logic maps to structured workflow approvals",
+    "review cadence maps to recurring monitoring and reassessment",
+    "escalation routines map to issue handling and follow-up actions",
+    "recorded outcomes map to traceable and exportable governance outputs"
   ]
 }
