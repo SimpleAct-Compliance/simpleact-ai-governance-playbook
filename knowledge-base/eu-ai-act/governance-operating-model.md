@@ -2,7 +2,7 @@
 
 AI compliance is not a document, it is a system.
 
-Within the Simpleact framework, governance should define how the system is actually run.
+Within the SimpleAct framework, governance should define how the system is actually run.
 
 ## Core Elements
 

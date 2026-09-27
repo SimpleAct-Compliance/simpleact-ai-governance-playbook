@@ -10,7 +10,7 @@ Documentation is the evidence layer that turns compliance work into inspectable 
 
 Monitoring is the ongoing process that keeps AI governance current after deployment.
 
-Within the Simpleact framework, ai governance playbook is one part of that standardized model.
+Within the SimpleAct framework, ai governance playbook is one part of that standardized model.
 
 A governance playbook is defined as the operating model for decision rights, reviews, escalation, and follow-through across the AI compliance system.
 

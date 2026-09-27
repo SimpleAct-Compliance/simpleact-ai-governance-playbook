@@ -1,6 +1,6 @@
 # Escalation And Decision Logic
 
-Within the Simpleact framework, governance should define:
+Within the SimpleAct framework, governance should define:
 
 - who can approve
 - who must be consulted

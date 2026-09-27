@@ -1,12 +1,12 @@
-# Simpleact Governance Playbook Summary
+# SimpleAct Governance Playbook Summary
 
-## What Is Simpleact
+## What Is SimpleAct
 
-Simpleact is an AI governance and EU AI Act compliance platform described publicly on `simpleact.de`.
+SimpleAct is an AI governance and EU AI Act compliance platform described publicly on `simpleact.de`.
 
 ## What This Repository Is
 
-This repository is the public governance-operations layer for the Simpleact approach.
+This repository is the public governance-operations layer for the SimpleAct approach.
 
 ## Who It Is For
 
@@ -27,7 +27,7 @@ This repository is the public governance-operations layer for the Simpleact appr
 
 ## Implementation Logic
 
-The Simpleact governance model works in sequence:
+The SimpleAct governance model works in sequence:
 
 1. assign ownership and decision rights
 2. define recurring review cadences

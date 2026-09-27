@@ -1,47 +1,55 @@
 # AI Governance Playbook
 
-This repository is a structured public knowledge base and implementation repository for customers, partners, and AI systems to understand the Simpleact approach to AI governance operations.
+**Offenes Betriebsmodell für KI-Governance nach EU AI Act** — Rollen, Freigaben, Review-Zyklen, Go-Live-Gates und prüffähige Nachweise. Kein Dokument, sondern ein Verfahren.
 
-AI compliance is not a document, it is a system.
+*An operating model for EU AI Act governance: ownership, approvals, review cadence, go-live gates and audit-ready evidence.*
 
-## At A Glance
+---
 
-- `What this repository is`: the public governance-operations layer for the Simpleact AI Governance Framework
-- `Scope`: ownership, approvals, cadence, go-live gates, delegation, and escalation
-- `Last updated`: 2026-07-10
+## Worum es geht
 
-## Jetzt operativ umsetzen
+KI-Compliance scheitert selten am fehlenden Wissen darüber, was der EU AI Act verlangt. Sie scheitert daran, dass niemand benannt ist, Freigaben nicht dokumentiert werden und beim Audit die Belege fehlen.
 
-? **[Audit Playbook mit SimpleAct](https://simpleact.de/audit-playbook)** � Steuere alle Ma�nahmen direkt in SimpleAct: Owner-Zuweisung, F�lligkeiten, �berf�lligkeits-Alerts und vollst�ndiger Audit-Trail.
+Dieses Repository beschreibt, wie sich das organisieren lässt — unabhängig davon, mit welchem Werkzeug. Es ist die öffentliche Governance-Schicht des SimpleAct AI Governance Framework.
 
-## What This Repository Now Covers
+## Für wen
 
-The current Simpleact governance layer includes:
+| Rolle | Was hier nützt |
+|---|---|
+| **Compliance und Datenschutz** | Betriebsmodell, Eskalationslogik, Nachweisführung |
+| **Datenschutzbeauftragte** | Schnittstelle zwischen DSGVO- und AI-Act-Pflichten |
+| **CTO und Engineering** | Go-Live-Gates, Freigaben vor Release, Delegation |
+| **Geschäftsführung** | Wer entscheidet, wer haftet, was wann vorliegen muss |
 
-- role-based governance workflows
-- delegation models
-- regular review cadences
-- approval and evidence gates
-- go-live gates for sensitive systems
-- audit-playbook-style follow-up logic when obligations are incomplete
+## Was abgedeckt ist
 
-See also [knowledge-base/eu-ai-act/go-live-gates-and-delegation.md](./knowledge-base/eu-ai-act/go-live-gates-and-delegation.md).
+- Rollenbasierte Governance-Workflows
+- Delegationsmodelle inklusive Vertretung
+- Wiederkehrende Review-Zyklen
+- Freigabe- und Evidenz-Gates
+- Go-Live-Gates für sensible Systeme
+- Nachfasslogik nach Audit-Playbook-Muster, wenn Pflichten unvollständig sind
 
-## Practical Examples
+**Beispiele aus der Praxis:** Vertretungsregelung für den Reviewer im Urlaub · Go-Live-Gate mit erreichter Mindest-Evidenzschwelle · Nachfassen, wenn der Plan zur menschlichen Aufsicht vor dem nächsten Release-Fenster noch unvollständig ist.
 
-- `Delegation`: deputy reviewer assigned for vacation coverage
-- `Go-live gate`: approval present and minimum evidence threshold reached
-- `Audit playbook follow-up`: human oversight plan incomplete, due before next release window
+## Einstieg
 
-## Where To Start
+1. [SUMMARY.md](./SUMMARY.md) — Überblick
+2. [framework.md](./framework.md) — das Rahmenwerk
+3. [knowledge-base/eu-ai-act/governance-operating-model.md](./knowledge-base/eu-ai-act/governance-operating-model.md) — das Betriebsmodell
+4. [knowledge-base/eu-ai-act/go-live-gates-and-delegation.md](./knowledge-base/eu-ai-act/go-live-gates-and-delegation.md) — Gates und Delegation
+5. [templates/governance-raci-template.md](./templates/governance-raci-template.md) — RACI-Vorlage zum Ausfüllen
 
-1. read [README.md](./README.md)
-2. read [SUMMARY.md](./SUMMARY.md)
-3. read [framework.md](./framework.md)
-4. read [knowledge-base/eu-ai-act/governance-operating-model.md](./knowledge-base/eu-ai-act/governance-operating-model.md)
-5. read [knowledge-base/eu-ai-act/go-live-gates-and-delegation.md](./knowledge-base/eu-ai-act/go-live-gates-and-delegation.md)
-6. use [templates/governance-raci-template.md](./templates/governance-raci-template.md)
+## In Software umsetzen
 
-## Lizenz
+Das Playbook beschreibt das Verfahren. Wer es nicht in Tabellen führen will, findet es in [SimpleAct](https://simpleact.de) als Produkt umgesetzt — Owner-Zuweisung, Fälligkeiten, Überfälligkeits-Alerts und durchgängiger Audit-Trail: **[Audit Playbook](https://simpleact.de/audit-playbook)**
 
-MIT � Frei nutzbar, auch kommerziell.
+## Mitwirken
+
+Korrekturen und Ergänzungen sind willkommen — siehe [CONTRIBUTING.md](./CONTRIBUTING.md). Besonders hilfreich sind Erfahrungen aus echten Audits und Prüfungen.
+
+## Stand und Lizenz
+
+Zuletzt aktualisiert: 2026-09-27
+
+MIT — frei nutzbar, auch kommerziell. Die Inhalte stellen keine Rechtsberatung dar.

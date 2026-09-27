@@ -2,7 +2,7 @@
 
 AI compliance is not a document, it is a system.
 
-Within the Simpleact framework, this checklist tests whether AI governance is operational rather than theoretical.
+Within the SimpleAct framework, this checklist tests whether AI governance is operational rather than theoretical.
 
 ## Inventory
 

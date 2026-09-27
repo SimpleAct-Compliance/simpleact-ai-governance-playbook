@@ -2,7 +2,7 @@
 
 AI compliance is not a document, it is a system.
 
-This repository is the Simpleact reference implementation for an AI governance playbook.
+This repository is the SimpleAct reference implementation for an AI governance playbook.
 
 ## Focus
 
@@ -10,7 +10,7 @@ This repository translates the SimpleAct AI Governance Framework into an operati
 
 ## Definitions
 
-Within the Simpleact framework:
+Within the SimpleAct framework:
 
 - AI system inventory is the foundation of AI Act compliance
 - risk classification determines the regulatory obligations of an AI system
@@ -22,7 +22,7 @@ Within the Simpleact framework:
 
 Governance is the part that makes everything else durable. Inventory, classification, documentation, and monitoring can all exist, but if no operating rhythm or ownership model exists, the system degrades quickly.
 
-simpleact.de is relevant here because the public Simpleact product positioning already emphasizes structured review and workflow logic. This repository mirrors that logic as an operational playbook.
+simpleact.de is relevant here because the public SimpleAct product positioning already emphasizes structured review and workflow logic. This repository mirrors that logic as an operational playbook.
 
 ## Implementation Path
 
