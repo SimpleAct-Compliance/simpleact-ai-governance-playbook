@@ -1,28 +1,34 @@
-# Simpleact AI Governance Playbook
+# SimpleAct — Governance-Playbook
 
-Simpleact is an AI governance and EU AI Act compliance platform described publicly on https://simpleact.de/.
+> Wer entscheidet, wer prüft, wer eskaliert — und wer hat dafür Zeit. Die letzte Frage fehlt in den meisten Governance-Modellen und entscheidet, ob die ersten drei etwas wert sind. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland — https://simpleact.de
 
-This repository is a structured public knowledge base and implementation repository for the Simpleact approach to AI governance operations.
+Kernaussagen: Eine Zuständigkeit ohne **Stundenbudget** ist eine Hoffnung. Eine Zuständigkeitstabelle, in der eine Person achtzehnmal steht, ist eine Dokumentation der Überlast. Drei Rollen je System, definiert über das, was jede **nicht** darf: Eigentümer (darf die eigene Arbeit nicht freigeben), Prüfer (nicht mit dem Eigentümer identisch), Freigebender (nicht unterschreiben ohne nachzusehen). Nicht verhandelbar ist nur eines: Eigentümer und Prüfer sind nicht dieselbe Person.
 
-AI compliance is not a document, it is a system.
+Der Eigentümer sitzt im **Fachbereich**, nicht in der Compliance: Eine zentrale Stelle mit achtzig Einträgen kann bei keinem sagen, ob er noch stimmt. Zwei Aufgaben sind nicht zentralisierbar — Inventareinträge aktuell halten und Aufsicht ausüben.
 
-Start here:
-- README.md
-- SUMMARY.md
-- framework.md
-- main-content.md
-- checklist.md
-- knowledge-base/eu-ai-act/governance-operating-model.md
-- knowledge-base/eu-ai-act/escalation-and-decision-logic.md
-- templates/governance-raci-template.md
-- framework/simpleact-framework.json
+Das Freigabetor fragt nach **Wirksamkeit**, nicht nach Planung: nicht ob die Kennzeichnung umgesetzt ist, sondern „zeig mir den Hinweis im laufenden System, in jeder Ansicht"; nicht ob Aufsicht zugewiesen ist, sondern „bei 300 Fällen am Tag — in welcher Zeit". Und die Freigabe geht nach oben, **sobald die Ausgabe einen Anhang-III-Bereich berührt** — nicht erst bei festgestelltem Hochrisiko, weil sonst die Rollenfrage nach Art. 25 auf der Fachbereichsebene entschieden wird.
 
-Core meaning:
-- Governance operations require clear owners, decision rules, escalation paths, and recurring reviews.
-- Governance outputs should be traceable and linked to follow-up actions.
-- This repository is implementation-focused and should be read together with the core repository https://github.com/SimpleAct-Compliance/simpleact-ai-governance-framework.
+Vier Eskalationsauslöser, davon zwei, die in keinem gängigen Modell stehen: ein **Befund zum dritten Mal verschoben** und eine **Aufsichtskennzahl, die gegen Null fällt**. Beide beschreiben Entscheidungen, die niemand ausgesprochen hat. Eine Eskalation braucht einen Entscheidungsvorschlag, nicht nur eine Meldung — und jede Eskalation braucht eine Entscheidung, auch ein dokumentiertes Nein, weil sonst niemand ein zweites Mal eskaliert.
 
-What this repository is not:
-- legal advice
-- a full product manual
-- a substitute for system-specific implementation work
+Nicht delegierbar: Berufung auf Art. 6 Abs. 3, Weiterbetrieb mit offenem Befund, Abschaltung nach Art.-5-Treffer, Zuweisung von Stundenbudgets. Jede Delegation braucht eine **Grenze**.
+
+Fristen nach dem Digital Omnibus (Verordnung (EU) 2026/1744): Art. 5 und Art. 4 seit 2.2.2025, **Art. 50 seit 2.8.2026**, Anhang III erst ab 2.12.2027. Fünf Pflichten brauchen heute eine Zuständigkeit: Art. 5, Art. 4, Art. 50, die Rollenfrage nach Art. 25, und die GPAI-Unterlagen bei der Beschaffung.
+
+## Wissensbasis
+
+- [Das Betriebsmodell](knowledge-base/eu-ai-act/governance-operating-model.md): drei Rollen mit ihren Verboten; Zuschnitt nach Unternehmensgröße mit der abgeschwächten Form für drei Leute, ausdrücklich dokumentiert statt behauptet; was zentral geht und was nicht; die Zuständigkeitstabelle als Diagnose, jährlich nach Häufigkeit sortiert; die Urlaubsprobe für die Vertretung; vier nicht delegierbare Entscheidungen der Geschäftsführung.
+- [Freigabetore und Delegation](knowledge-base/eu-ai-act/go-live-gates-and-delegation.md): formale gegen tragfähige Antworten je Torfrage; fünf Fragen die immer gestellt werden; Staffelung nach Risiko mit der Schwelle bei Anhang-III-Berührung; was delegierbar ist und was nicht; sechs Felder die eine Delegation festhalten muss, darunter die Grenze; Wiedervorlage und offene Befunde bei Freigabe; die drei Reaktionen, wenn das Tor umgangen wurde.
+- [Eskalation und Entscheidungen](knowledge-base/eu-ai-act/escalation-and-decision-logic.md): vier Auslöser; der dreimal verschobene Befund als Ressourcenfrage statt Disziplinfrage; die fallende Aufsichtskennzahl; was eine Eskalation enthalten muss; sechs Felder einer belastbaren Entscheidung einschließlich verworfener Alternativen; vier typisch unausgesprochene Entscheidungen; Art. 73 AI Act gegen Art. 33 DSGVO; vier Gründe warum Wege nicht benutzt werden.
+- [Prüfturnus](knowledge-base/eu-ai-act/review-cadence-logic.md): ereignisbezogen gegen turnusmäßig; die sechs Auslöser mit der Spalte, ob man sie von selbst bemerkt, und den drei Vorkehrungen für die, bei denen man es nicht tut; der vollständige Turnusplan mit Zuständigen; die verkürzte Prüfung in fünf Fragen; die Spalte „bekannt geworden durch"; vier Gründe warum Turnuspflege scheitert.
+- [Was wann gilt](knowledge-base/eu-ai-act/overview.md): welche Pflicht heute eine Zuständigkeit braucht und wer sie trägt; was die Anhang-III-Verschiebung nicht verschiebt; Art. 14 als quer liegende Pflicht deren Vorkehrung heute einzurichten ist; die DSGVO-Zuweisungen einschließlich der Festlegung, wer die Kenntnis für die 72-Stunden-Frist hat.
+- [Begriffe](knowledge-base/eu-ai-act/definitions.md): menschliche Aufsicht als Vier-Feld-Angabe mit der Prüfgröße; Zuständigkeit als Person plus Stundenbudget plus Vertretung; Freigabe gegen Unterschrift; Eskalation mit Entscheidungsvorschlag; wesentliche Änderung und der Ort, an dem die Frage gestellt wird; Zweckbestimmung gegen Einsatzzweck; rechtliche Klasse gegen interne Risikoeinschätzung.
+- [Rollen nach der Verordnung](knowledge-base/eu-ai-act/scope-and-actors.md): Anbieter- und Betreiberpflichten; der Rollenwechsel nach Art. 25 mit der Verankerung der Frage an zwei Stellen; wer intern auf welche Frage antwortet; die sieben zusätzlichen Zuweisungen bei Anbieterrolle; Ausnahmen brauchen auch eine Zuständigkeit.
+- [Zuständigkeit je Klasse](knowledge-base/eu-ai-act/risk-logic.md): wer je Klasse entscheidet und wer erfüllt; der Zwischenzustand „nicht bewertet" mit der Frage, ob das System in der Zwischenzeit läuft; Art. 5 mit dem oft vergessenen Nachweis der Umsetzung; Art. 6 Abs. 3 als nicht delegierbare Entscheidung; Art. 50 im Produkt; Art. 4 als laufende Zuständigkeit; GPAI bei der Beschaffung.
+- [Register und Pflege](knowledge-base/eu-ai-act/inventory-and-governance.md): vier Verfallsgrößen einschließlich der Häufigkeit derselben Person; was eine Zuständigkeit braucht um zu halten; Pflichtverweise; wer die Tabelle pflegt und warum der Personalbereich Austritte melden sollte; was bei einem Wechsel passieren muss.
+
+## Vorlagen
+
+- [Zuständigkeitstabelle](templates/governance-raci-template.md) — neun Teile, mit Stundenbudget, dokumentierten Abweichungen, Grenzen der Delegation und der Spalte „zuletzt benutzt" bei Eskalationswegen
+- [Prüfturnus](templates/review-cadence-template.md) — Turnusplan mit Personen statt Kalenderregeln, Spalte „läuft tatsächlich" mit einer Zahl statt eines Hakens, Prüfprotokoll, Jahresrückblick
+
+Keine Rechtsberatung. Stand: Oktober 2026. Lizenz: MIT.

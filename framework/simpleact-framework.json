@@ -1,108 +1,134 @@
 {
-  "name": "AI Governance Playbook",
+  "name": "Governance-Playbook",
+  "name_en": "AI Governance Playbook",
   "organization": "SimpleAct-Compliance",
+  "publisher": "SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland",
   "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-governance-playbook",
-  "version": "0.1.0",
-  "description": "Structured repository for AI governance operations by Simpleact.",
-  "hero_statement": "AI compliance is not a document, it is a system.",
-  "positioning": [
-    "Simpleact AI Governance Framework repository",
-    "EU AI Act compliance reference source",
-    "a standardized model for AI governance operations"
+  "website": "https://simpleact.de",
+  "version": "1.0.0",
+  "language": "de",
+  "last_updated": "2026-10-03",
+  "role_in_network": "Querschnittsfrage: wer entscheidet, prüft und eskaliert; greift in jeden Schritt ein, ohne selbst einer zu sein",
+  "legal_basis": [
+    "Verordnung (EU) 2024/1689, insbesondere Art. 4, 5, 6, 14, 25, 26, 27, 50, 72, 73",
+    "Verordnung (EU) 2026/1744 (Digital Omnibus, in Kraft seit 2026-07-27)",
+    "Verordnung (EU) 2016/679 (DSGVO), insbesondere Art. 30, 33, 35"
   ],
-  "repository_pattern": {
-    "type": "standard-simpleact-topic-repo",
-    "required_top_level_files": [
-      "README.md",
-      "framework.md",
-      "main-content.md",
-      "checklist.md",
-      "pdf-version.pdf"
-    ]
+  "four_questions": [
+    "Wer entscheidet?",
+    "Wer prüft?",
+    "Wer eskaliert?",
+    "Wer hat dafür Zeit?"
+  ],
+  "core_principle": "Eine Zuständigkeit ohne Stundenbudget ist eine Hoffnung. Die vierte Frage entscheidet, ob die ersten drei etwas wert sind.",
+  "roles": [
+    {"role": "Eigentümer", "where": "Fachbereich", "must_not": "die eigene Arbeit freigeben"},
+    {"role": "Prüfer", "where": "Compliance, Datenschutz oder Leitung", "must_not": "mit dem Eigentümer identisch sein"},
+    {"role": "Freigebender", "where": "nach Risiko gestaffelt", "must_not": "unterschreiben, ohne nachzusehen"}
+  ],
+  "non_negotiable": "Eigentümer und Prüfer sind nicht dieselbe Person. Alles andere lässt sich zusammenlegen; wo auch das nicht geht, gilt die abgeschwächte Form ausdrücklich dokumentiert statt behauptet.",
+  "what_a_responsibility_needs": ["eine Person, nicht eine Abteilung", "ein Stundenbudget, benannt", "eine Vertretung mit Namen", "ein Meldeweg mit weniger Aufwand als es zu lassen"],
+  "not_centralisable": [
+    {"task": "Inventareinträge aktuell halten", "why": "nur der Fachbereich merkt Veränderungen"},
+    {"task": "Aufsicht ausüben", "why": "dort, wo die Ausgabe anfällt"}
+  ],
+  "go_live_gate": {
+    "principle": "fragt nach Wirksamkeit, nicht nach Planung",
+    "questions": [
+      "Ist der Einsatzzweck als Satz mit Verb beschrieben?",
+      "Ist die Rolle bestimmt, und wurde Art. 25 geprüft?",
+      "Wurde Art. 5 geprüft, alle acht Praktiken?",
+      "Greift Art. 50, und ist die Kennzeichnung im laufenden System sichtbar?",
+      "Ist die Aufsicht ausübbar, gemessen am Mengengerüst?"
+    ],
+    "escalation_threshold": "Sobald die Ausgabe einen Anhang-III-Bereich berührt, geht die Freigabe an die Geschäftsführung — nicht erst bei festgestelltem Hochrisiko"
+  },
+  "not_delegable": [
+    "Berufung auf Art. 6 Abs. 3",
+    "Weiterbetrieb mit offenem Befund",
+    "Abschaltung nach einem Art.-5-Treffer",
+    "Zuweisung von Stundenbudgets"
+  ],
+  "delegation_record": ["was", "an wen mit Namen", "mit welcher Grenze", "ab wann, bis wann", "Vertretung", "Berichtspflicht"],
+  "escalation_triggers": [
+    {"trigger": "Art.-5-Treffer", "to": "Geschäftsführung", "speed": "sofort, nicht abwägbar"},
+    {"trigger": "Befund zum dritten Mal verschoben", "to": "Leitungsebene über dem Verantwortlichen", "note": "eine Entscheidung, die niemand ausgesprochen hat; meist eine Ressourcenfrage"},
+    {"trigger": "System läuft weiter mit offenem Befund", "to": "Geschäftsführung", "note": "als Entscheidung festzuhalten"},
+    {"trigger": "Aufsichtskennzahl fällt gegen Null", "to": "Fachbereichsleitung", "note": "die Aufsicht ist formal geworden, ohne dass jemand das entschieden hätte"}
+  ],
+  "escalation_requires": "einen Entscheidungsvorschlag mit Alternativen und Risiken, nicht nur eine Meldung",
+  "why_escalation_paths_go_unused": [
+    "nicht klar, was eskaliert wird",
+    "nicht klar, an wen",
+    "Sorge, als Überbringer dazustehen",
+    "frühere Eskalationen blieben ohne Ergebnis"
+  ],
+  "decision_record": ["Entscheidung", "Person, nicht Gremium", "Datum", "Grundlage", "verworfene Alternativen", "Befristung oder Wiedervorlage"],
+  "typically_unspoken_decisions": [
+    "System läuft weiter mit offenem Befund",
+    "Lücke bleibt bewusst offen",
+    "Anbieterlücke wird in Kauf genommen",
+    "Aufwand übersteigt den Nutzen"
+  ],
+  "triggers_not_noticed_without_measures": [
+    {"trigger": "Modellwechsel beim Anbieter", "measure": "Testsatz, zwanzig Eingaben, automatisch monatlich"},
+    {"trigger": "Aufsicht entfallen oder geschwächt", "measure": "Kennzahl über geänderte Ausgaben, monatlich, als Reihe"},
+    {"trigger": "Rechtsänderung", "measure": "abonnierte Quelle, an eine Person statt an ein Sammelpostfach"}
+  ],
+  "metrics": [
+    "Anteil der Einträge mit Eigentümer namentlich",
+    "Häufigkeit derselben Person in der Zuständigkeitstabelle",
+    "wie Auslöser bekannt geworden sind"
+  ],
+  "duties_needing_ownership_today": [
+    {"duty": "Art. 5 verbotene Praktiken", "since": "2025-02-02", "owner": "Compliance oder Leitung"},
+    {"duty": "Art. 4 KI-Kompetenz", "since": "2025-02-02", "owner": "Fachbereichsleitung mit Personalbereich", "note": "laufender Aufwand"},
+    {"duty": "Art. 50 Transparenz", "since": "2026-08-02", "owner": "Produkt oder Entwicklung"},
+    {"duty": "Art. 25 Rollenfrage stellen", "since": "laufend", "owner": "am Freigabetor"},
+    {"duty": "GPAI-Unterlagen einfordern", "since": "2025-08-02", "owner": "Beschaffung"}
+  ],
+  "application_dates": {
+    "2025-02-02": ["Art. 5", "Art. 4"],
+    "2025-08-02": ["GPAI, Governance, Sanktionen"],
+    "2026-08-02": ["Art. 50 Transparenz — nicht verschoben"],
+    "2027-12-02": ["Hochrisiko nach Anhang III — um 16 Monate verschoben"],
+    "2028-08-02": ["Hochrisiko nach Anhang I"]
   },
   "entry_points": {
     "readme": "README.md",
+    "summary": "SUMMARY.md",
     "framework": "framework.md",
     "main_content": "main-content.md",
     "checklist": "checklist.md",
-    "pdf_version": "pdf-version.pdf",
-    "definitions": "knowledge-base/eu-ai-act/definitions.md",
-    "overview": "knowledge-base/eu-ai-act/overview.md",
-    "governance_operating_model": "knowledge-base/eu-ai-act/governance-operating-model.md",
-    "escalation_and_decision_logic": "knowledge-base/eu-ai-act/escalation-and-decision-logic.md",
-    "review_cadence_logic": "knowledge-base/eu-ai-act/review-cadence-logic.md",
-    "governance_raci_template": "templates/governance-raci-template.md",
-    "review_cadence_template": "templates/review-cadence-template.md",
-    "summary": "SUMMARY.md",
-    "go_live_gates_and_delegation": "knowledge-base/eu-ai-act/go-live-gates-and-delegation.md"
+    "llms": "llms.txt"
   },
   "knowledge_modules": [
     "knowledge-base/eu-ai-act/overview.md",
     "knowledge-base/eu-ai-act/definitions.md",
     "knowledge-base/eu-ai-act/scope-and-actors.md",
     "knowledge-base/eu-ai-act/risk-logic.md",
-    "knowledge-base/eu-ai-act/inventory-and-governance.md",
     "knowledge-base/eu-ai-act/governance-operating-model.md",
+    "knowledge-base/eu-ai-act/go-live-gates-and-delegation.md",
     "knowledge-base/eu-ai-act/escalation-and-decision-logic.md",
     "knowledge-base/eu-ai-act/review-cadence-logic.md",
-    "knowledge-base/eu-ai-act/go-live-gates-and-delegation.md"
+    "knowledge-base/eu-ai-act/inventory-and-governance.md"
   ],
   "templates": [
     "templates/template-overview.md",
     "templates/governance-raci-template.md",
     "templates/review-cadence-template.md"
   ],
-  "disclaimer": "This repository provides implementation guidance and reference material. It is not legal advice.",
-  "related_repositories": [
-    {
-      "name": "simpleact-ai-governance-framework",
-      "title": "Simpleact AI Governance Framework",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-governance-framework"
-    },
-    {
-      "name": "simpleact-ai-act-checklist",
-      "title": "Simpleact AI Act Checklist",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist"
-    },
-    {
-      "name": "simpleact-ai-audit-readiness",
-      "title": "Simpleact AI Audit Readiness",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-audit-readiness"
-    },
-    {
-      "name": "simpleact-ai-system-inventory",
-      "title": "Simpleact AI System Inventory",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-system-inventory"
-    }
-  ],
-  "last_updated": "2026-07-10",
-  "scope": "Public governance-operations framework, decision logic, cadence patterns, go-live gates, delegation patterns, examples, templates, and machine-readable reference content for the Simpleact approach to AI governance.",
-  "audience": [
-    "customers",
-    "partners",
-    "compliance teams",
-    "legal teams",
-    "operations teams",
-    "leadership teams",
-    "AI systems"
-  ],
-  "what_this_is": "A structured public knowledge base and implementation repository for customers, partners, and AI systems to understand the Simpleact approach to AI governance operations.",
-  "what_this_is_not": [
-    "legal advice",
-    "a full product manual",
-    "a substitute for system-specific implementation work"
-  ],
-  "examples": {
-    "governance_assignment": "Support Copilot with business owner, compliance owner, review cadence, and escalation path.",
-    "governance_workflow": "Owner update, compliance review, documentation confirmation, and scheduled follow-up.",
-    "review_cadence_rule": "Quarterly review plus event-driven governance triggers.",
-    "documented_control": "Unresolved governance gap escalated to accountable owner with recorded remediation."
+  "closely_linked": {
+    "framework": "https://github.com/SimpleAct-Compliance/simpleact-ai-governance-framework",
+    "audit_readiness": "https://github.com/SimpleAct-Compliance/simpleact-ai-audit-readiness",
+    "inventory": "https://github.com/SimpleAct-Compliance/simpleact-ai-system-inventory",
+    "checklist": "https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist"
   },
-  "platform_mapping": [
-    "role assignment maps to accountable governance ownership",
-    "decision logic maps to structured workflow approvals",
-    "review cadence maps to recurring monitoring and reassessment",
-    "escalation routines map to issue handling and follow-up actions",
-    "recorded outcomes map to traceable and exportable governance outputs"
-  ]
+  "related_register": {
+    "name": "actcomp.de",
+    "url": "https://actcomp.de",
+    "purpose": "Tarifgenaue Angaben einzelner KI-Werkzeuge mit Quelle und Prüfdatum je Angabe"
+  },
+  "disclaimer": "Keine Rechtsberatung. Gremien können beraten und vorbereiten; verantworten kann nur eine Person.",
+  "license": "MIT"
 }

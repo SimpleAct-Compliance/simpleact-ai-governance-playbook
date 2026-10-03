@@ -1,47 +1,74 @@
-# AI Governance Playbook
+# Das Verfahren in Kurzform
 
-AI compliance is not a document, it is a system.
+Vier Fragen. Die letzte entscheidet, ob die ersten drei etwas wert sind.
 
-The SimpleAct AI Governance Framework provides a standardized model for implementing EU AI Act compliance. This repository defines the governance-playbook layer of that model.
+1. **Wer entscheidet?**
+2. **Wer prüft?**
+3. **Wer eskaliert?**
+4. **Wer hat dafür Zeit?**
 
-simpleact.de publicly positions SimpleAct around workflows, review routines, versioning, and structured outputs. This repository translates that positioning into an operating playbook.
+## Drei Rollen, drei Verbote
 
-## Core Model
+| Rolle | Wo | Darf nicht |
+|---|---|---|
+| Eigentümer | Fachbereich | die eigene Arbeit freigeben |
+| Prüfer | Compliance, Datenschutz, Leitung | mit dem Eigentümer identisch sein |
+| Freigebender | nach Risiko gestaffelt | unterschreiben, ohne nachzusehen |
 
-Within the SimpleAct framework, AI compliance is built around:
+Nicht verhandelbar ist eines: **Eigentümer und Prüfer sind nicht dieselbe Person.** Alles andere lässt sich in kleinen Organisationen zusammenlegen — und wo auch das nicht geht, gilt die abgeschwächte Form **ausdrücklich dokumentiert**, nicht die behauptete Trennung.
 
-1. AI system inventory
-2. risk classification
-3. governance and accountability
-4. documentation and evidence
-5. monitoring and reporting
+## Was eine Zuständigkeit braucht
 
-## Topic Definition
+Person, **Stundenbudget**, Vertretung. Fehlt das Stundenbudget, ist es eine Hoffnung — und wird in zwölf Monaten als Versäumnis der Person gelesen, nicht der Organisation.
 
-A governance playbook is the operating model that defines roles, decisions, cadence, escalation, and follow-through across the AI compliance system.
+## Was zentral nicht geht
 
-## Governance Components
+| Aufgabe | Zentral |
+|---|---|
+| Fristen, Planung, Art.-5-Prüfung, Schulung | ja |
+| **Inventareinträge aktuell halten** | nein — nur der Fachbereich merkt Veränderungen |
+| **Aufsicht ausüben** | nein — dort, wo die Ausgabe anfällt |
 
-Within the SimpleAct framework, the playbook should define:
+## Das Freigabetor
 
-- ownership model
-- review cadence
-- approval flow
-- escalation logic
-- follow-up and remediation process
+Es fragt, ob Maßnahmen **wirksam** sind, nicht ob sie geplant sind. Vier Fragen, acht Minuten:
 
-## Governance Outputs
+- Zeig mir den Hinweis nach Art. 50 im laufenden System, in jeder Ansicht.
+- Bei 300 Fällen am Tag — in welcher Zeit wird geprüft, mit welcher Befugnis?
+- Welche Person hat welche Pflicht, bis wann?
+- Fordere einen Nachweis an, wir messen die Zeit.
 
-The governance layer should produce:
+**Und die Freigabe geht nach oben, sobald die Ausgabe einen Anhang-III-Bereich berührt** — nicht erst bei festgestelltem Hochrisiko. Sonst wird die Rollenfrage nach Art. 25 auf der Fachbereichsebene entschieden.
 
-- named decision rights
-- clearer review routines
-- repeatable escalation paths
-- stronger accountability
-- ongoing operational discipline
+## Vier Eskalationsauslöser
 
-## Why It Matters
+| Auslöser | An wen |
+|---|---|
+| Art.-5-Treffer | Geschäftsführung, sofort |
+| **Befund zum dritten Mal verschoben** | Leitungsebene darüber |
+| System läuft weiter mit offenem Befund | Geschäftsführung, als Entscheidung |
+| **Aufsichtskennzahl fällt gegen Null** | Fachbereichsleitung |
 
-This repository translates the SimpleAct AI Governance Framework into an operating playbook. Without governance routines, strong framework design becomes inconsistent execution.
+Die zweite und vierte stehen in keinem gängigen Modell. Beide beschreiben Entscheidungen, die niemand ausgesprochen hat.
 
-See [knowledge-base/eu-ai-act/definitions.md](./knowledge-base/eu-ai-act/definitions.md), [knowledge-base/eu-ai-act/governance-operating-model.md](./knowledge-base/eu-ai-act/governance-operating-model.md), [main-content.md](./main-content.md), and [checklist.md](./checklist.md).
+Und eine Eskalation braucht einen **Entscheidungsvorschlag**: „Hier ist ein Problem" erzeugt Rückfragen, nicht Entscheidungen.
+
+## Was nicht delegierbar ist
+
+Berufung auf Art. 6 Abs. 3; Weiterbetrieb mit offenem Befund; Abschaltung nach einem Art.-5-Treffer; Zuweisung von Stundenbudgets. Jede Delegation braucht außerdem eine **Grenze** — sonst verlagert sie unbemerkt auch die Entscheidungen, die bleiben sollten.
+
+## Turnus ist eine Untergrenze
+
+Drei der sechs Auslöser bemerkt eine Organisation ohne eigene Vorkehrung **nicht**: Modellwechsel beim Anbieter (Testsatz, monatlich), schleichender Wegfall der Aufsicht (Kennzahl, monatlich), Rechtsänderung (abonnierte Quelle, an eine Person).
+
+## Die drei Kennzahlen
+
+1. Anteil der Einträge mit **Eigentümer namentlich**
+2. **Häufigkeit derselben Person** in der Zuständigkeitstabelle
+3. Wie Auslöser **bekannt geworden** sind
+
+Die zweite wird fast nie erhoben und ist die nützlichste Auswertung des Modells: die Tabelle einmal nach Häufigkeit sortieren.
+
+## Weiter
+
+[Das Betriebsmodell](./knowledge-base/eu-ai-act/governance-operating-model.md) · [Prüfliste](./checklist.md) · [Zuständigkeitstabelle](./templates/governance-raci-template.md)

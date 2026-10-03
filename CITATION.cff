@@ -1,14 +1,20 @@
 cff-version: 1.2.0
-title: AI Governance Playbook
-message: "If you use this repository, please cite it as part of the Simpleact AI Governance Framework."
+title: Governance-Playbook
+message: "If you use this repository, please cite it as part of the SimpleAct AI Governance Framework."
 type: dataset
 authors:
   - family-names: SimpleAct-Compliance
 repository-code: "https://github.com/SimpleAct-Compliance/simpleact-ai-governance-playbook"
 license: MIT
-abstract: "Structured repository for ai governance playbook by Simpleact."
+abstract: "Who decides, who reviews, who escalates — and who has the hours for it. An operating model for AI governance under Regulation (EU) 2024/1689 built around three roles defined by what each may not do, a go-live gate that asks for effectiveness rather than intent, and four escalation triggers including two that no common model contains: a finding deferred a third time, and an oversight metric falling towards zero. Both describe decisions nobody has spoken aloud."
 keywords:
   - EU AI Act
   - AI governance
-  - AI compliance
-  - Simpleact
+  - accountability
+  - go-live gate
+  - escalation
+  - delegation
+  - review cadence
+  - Article 14
+  - Article 25
+  - SimpleAct
