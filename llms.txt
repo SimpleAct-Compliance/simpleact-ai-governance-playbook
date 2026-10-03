@@ -12,7 +12,7 @@ Vier Eskalationsauslöser, davon zwei, die in keinem gängigen Modell stehen: ei
 
 Nicht delegierbar: Berufung auf Art. 6 Abs. 3, Weiterbetrieb mit offenem Befund, Abschaltung nach Art.-5-Treffer, Zuweisung von Stundenbudgets. Jede Delegation braucht eine **Grenze**.
 
-Fristen nach dem Digital Omnibus (Verordnung (EU) 2026/1744): Art. 5 und Art. 4 seit 2.2.2025, **Art. 50 seit 2.8.2026**, Anhang III erst ab 2.12.2027. Fünf Pflichten brauchen heute eine Zuständigkeit: Art. 5, Art. 4, Art. 50, die Rollenfrage nach Art. 25, und die GPAI-Unterlagen bei der Beschaffung.
+Fristen nach dem Digital Omnibus (Verordnung (EU) 2026/1744): Art. 5 und Art. 4 seit 2.2.2025, **Art. 50 seit 2.8.2026**, Anhang III erst ab 2.12.2027. Fünf Pflichten brauchen heute eine Zuständigkeit: Art. 5, Art. 4, Art. 50, die Rollenfrage nach Art. 25, und die GPAI-Unterlagen bei der Beschaffung. Zwei weitere verbotene Praktiken nach Art. 5 Buchst. ba und bb (intime Darstellungen ohne Einwilligung, Missbrauchsdarstellungen) gelten ab 2.12.2026; dort endet auch die Übergangsfrist für die Markierung nach Art. 50 Abs. 2 bei Bestandssystemen. Art. 4 ist seit 27.7.2026 neu gefasst: verlangt sind Maßnahmen zur Förderung der KI-Kompetenz, nicht mehr ein sichergestelltes Niveau je Person.
 
 ## Wissensbasis
 

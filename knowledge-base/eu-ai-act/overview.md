@@ -12,6 +12,7 @@ Nach dem **Digital Omnibus** (Verordnung (EU) 2026/1744, in Kraft seit 27.7.2026
 | 2.2.2025 | Art. 4 KI-Kompetenz | **ja**, laufend |
 | 2.8.2025 | GPAI | nur als Beschaffungsfrage |
 | **2.8.2026** | Art. 50 Transparenz | **ja**, und am Freigabetor |
+| 2.12.2026 | Zwei neue verbotene Praktiken nach Art. 5 (intime Darstellungen ohne Einwilligung, Missbrauchsdarstellungen); Ende der Art.-50-Abs.-2-Übergangsfrist für Bestandssysteme  | |
 | 2.12.2027 | Hochrisiko nach Anhang III | Vorarbeit zuweisen |
 | 2.8.2028 | Hochrisiko nach Anhang I | Vorarbeit zuweisen |
 
@@ -20,7 +21,7 @@ Nach dem **Digital Omnibus** (Verordnung (EU) 2026/1744, in Kraft seit 27.7.2026
 | Pflicht | Zuständig | Was konkret |
 |---|---|---|
 | **Art. 5** | Compliance oder Leitung | einmal je Einsatzzweck prüfen, Ergebnis mit Datum |
-| **Art. 4** | Fachbereichsleitung, mit Personalbereich | wer bedient welches System, mit welchem Schulungsstand |
+| **Art. 4** | Fachbereichsleitung, mit Personalbereich | Maßnahmen zur Förderung der KI-Kompetenz ergreifen und dokumentieren; wer bedient welches System |
 | **Art. 50** | Produkt oder Entwicklung | Kennzeichnung im System, Nachweis mit Produktversion |
 | GPAI | Beschaffung | fragen, ob der Modellanbieter liefert |
 

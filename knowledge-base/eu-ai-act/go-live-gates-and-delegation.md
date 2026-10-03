@@ -22,7 +22,7 @@ Unabhängig von der Klasse:
 
 1. Ist der **Einsatzzweck** als Satz mit Verb beschrieben?
 2. Ist die **Rolle** bestimmt, und wurde **Art. 25** geprüft?
-3. Wurde **Art. 5** geprüft, alle acht Praktiken?
+3. Wurde **Art. 5** geprüft, alle zehn Praktiken?
 4. Greift **Art. 50**, und ist die Kennzeichnung im System sichtbar?
 5. Ist die **Aufsicht ausübbar** — gemessen am Mengengerüst?
 

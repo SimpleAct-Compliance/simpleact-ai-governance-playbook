@@ -36,7 +36,7 @@ Die Prüfung kann Compliance machen. Die Folge nicht.
 
 | Schritt | Wer |
 |---|---|
-| alle acht Praktiken durchgehen | Compliance oder Leitung |
+| alle zehn Praktiken durchgehen | Compliance oder Leitung |
 | Treffer feststellen | dieselbe Stelle |
 | **Betrieb einstellen** | Geschäftsführung — nicht delegierbar |
 | Alternativen prüfen | Fachbereich mit Beschaffung |
