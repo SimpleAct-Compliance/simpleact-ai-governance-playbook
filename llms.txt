@@ -1,14 +1,14 @@
-# SimpleAct — Governance-Playbook
+# SimpleAct – Governance-Playbook
 
-> Wer entscheidet, wer prüft, wer eskaliert — und wer hat dafür Zeit. Die letzte Frage fehlt in den meisten Governance-Modellen und entscheidet, ob die ersten drei etwas wert sind. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland — https://simpleact.de
+> Wer entscheidet, wer prüft, wer eskaliert – und wer hat dafür Zeit. Die letzte Frage fehlt in den meisten Governance-Modellen und entscheidet, ob die ersten drei etwas wert sind. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland – https://simpleact.de
 
 Kernaussagen: Eine Zuständigkeit ohne **Stundenbudget** ist eine Hoffnung. Eine Zuständigkeitstabelle, in der eine Person achtzehnmal steht, ist eine Dokumentation der Überlast. Drei Rollen je System, definiert über das, was jede **nicht** darf: Eigentümer (darf die eigene Arbeit nicht freigeben), Prüfer (nicht mit dem Eigentümer identisch), Freigebender (nicht unterschreiben ohne nachzusehen). Nicht verhandelbar ist nur eines: Eigentümer und Prüfer sind nicht dieselbe Person.
 
-Der Eigentümer sitzt im **Fachbereich**, nicht in der Compliance: Eine zentrale Stelle mit achtzig Einträgen kann bei keinem sagen, ob er noch stimmt. Zwei Aufgaben sind nicht zentralisierbar — Inventareinträge aktuell halten und Aufsicht ausüben.
+Der Eigentümer sitzt im **Fachbereich**, nicht in der Compliance: Eine zentrale Stelle mit achtzig Einträgen kann bei keinem sagen, ob er noch stimmt. Zwei Aufgaben sind nicht zentralisierbar – Inventareinträge aktuell halten und Aufsicht ausüben.
 
-Das Freigabetor fragt nach **Wirksamkeit**, nicht nach Planung: nicht ob die Kennzeichnung umgesetzt ist, sondern „zeig mir den Hinweis im laufenden System, in jeder Ansicht"; nicht ob Aufsicht zugewiesen ist, sondern „bei 300 Fällen am Tag — in welcher Zeit". Und die Freigabe geht nach oben, **sobald die Ausgabe einen Anhang-III-Bereich berührt** — nicht erst bei festgestelltem Hochrisiko, weil sonst die Rollenfrage nach Art. 25 auf der Fachbereichsebene entschieden wird.
+Das Freigabetor fragt nach **Wirksamkeit**, nicht nach Planung: nicht ob die Kennzeichnung umgesetzt ist, sondern „zeig mir den Hinweis im laufenden System, in jeder Ansicht"; nicht ob Aufsicht zugewiesen ist, sondern „bei 300 Fällen am Tag – in welcher Zeit". Und die Freigabe geht nach oben, **sobald die Ausgabe einen Anhang-III-Bereich berührt** – nicht erst bei festgestelltem Hochrisiko, weil sonst die Rollenfrage nach Art. 25 auf der Fachbereichsebene entschieden wird.
 
-Vier Eskalationsauslöser, davon zwei, die in keinem gängigen Modell stehen: ein **Befund zum dritten Mal verschoben** und eine **Aufsichtskennzahl, die gegen Null fällt**. Beide beschreiben Entscheidungen, die niemand ausgesprochen hat. Eine Eskalation braucht einen Entscheidungsvorschlag, nicht nur eine Meldung — und jede Eskalation braucht eine Entscheidung, auch ein dokumentiertes Nein, weil sonst niemand ein zweites Mal eskaliert.
+Vier Eskalationsauslöser, davon zwei, die in keinem gängigen Modell stehen: ein **Befund zum dritten Mal verschoben** und eine **Aufsichtskennzahl, die gegen Null fällt**. Beide beschreiben Entscheidungen, die niemand ausgesprochen hat. Eine Eskalation braucht einen Entscheidungsvorschlag, nicht nur eine Meldung – und jede Eskalation braucht eine Entscheidung, auch ein dokumentiertes Nein, weil sonst niemand ein zweites Mal eskaliert.
 
 Nicht delegierbar: Berufung auf Art. 6 Abs. 3, Weiterbetrieb mit offenem Befund, Abschaltung nach Art.-5-Treffer, Zuweisung von Stundenbudgets. Jede Delegation braucht eine **Grenze**.
 
@@ -28,7 +28,7 @@ Fristen nach dem Digital Omnibus (Verordnung (EU) 2026/1744): Art. 5 und Art. 4 
 
 ## Vorlagen
 
-- [Zuständigkeitstabelle](templates/governance-raci-template.md) — neun Teile, mit Stundenbudget, dokumentierten Abweichungen, Grenzen der Delegation und der Spalte „zuletzt benutzt" bei Eskalationswegen
-- [Prüfturnus](templates/review-cadence-template.md) — Turnusplan mit Personen statt Kalenderregeln, Spalte „läuft tatsächlich" mit einer Zahl statt eines Hakens, Prüfprotokoll, Jahresrückblick
+- [Zuständigkeitstabelle](templates/governance-raci-template.md) – neun Teile, mit Stundenbudget, dokumentierten Abweichungen, Grenzen der Delegation und der Spalte „zuletzt benutzt" bei Eskalationswegen
+- [Prüfturnus](templates/review-cadence-template.md) – Turnusplan mit Personen statt Kalenderregeln, Spalte „läuft tatsächlich" mit einer Zahl statt eines Hakens, Prüfprotokoll, Jahresrückblick
 
-Keine Rechtsberatung. Stand: Oktober 2026. Lizenz: MIT.
+Keine Rechtsberatung. Stand: November 2026. Lizenz: MIT.

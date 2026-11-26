@@ -10,15 +10,15 @@ Drei Rollen je System. Die Abgrenzung ist wichtiger als die Namen: Was eine Roll
 
 **Darf nicht:** die eigene Arbeit freigeben.
 
-**Warum Fachbereich und nicht Compliance:** Eine zentrale Stelle, die achtzig Einträge pflegt, kann bei keinem sagen, ob er noch stimmt. Sie kann die Felder ausfüllen — aber sie merkt nicht, dass der Vertrieb das Werkzeug seit drei Monaten auch für Angebote benutzt.
+**Warum Fachbereich und nicht Compliance:** Eine zentrale Stelle, die achtzig Einträge pflegt, kann bei keinem sagen, ob er noch stimmt. Sie kann die Felder ausfüllen – aber sie merkt nicht, dass der Vertrieb das Werkzeug seit drei Monaten auch für Angebote benutzt.
 
 **Was die Rolle braucht:** ein **Stundenbudget**, benannt. Und einen Meldeweg, der weniger Aufwand ist als es zu lassen.
 
 ## Prüfer
 
-**Wer:** eine Person, die nicht der Eigentümer ist. In kleinen Organisationen Datenschutz, Compliance oder die Leitungsebene — auch extern besetzbar.
+**Wer:** eine Person, die nicht der Eigentümer ist. In kleinen Organisationen Datenschutz, Compliance oder die Leitungsebene – auch extern besetzbar.
 
-**Aufgabe:** nachsehen, ob der Eintrag **stimmt** — nicht, ob er gefüllt ist. Dazu gehört, einmal das System selbst anzusehen.
+**Aufgabe:** nachsehen, ob der Eintrag **stimmt** – nicht, ob er gefüllt ist. Dazu gehört, einmal das System selbst anzusehen.
 
 **Darf nicht:** mit dem Eigentümer identisch sein.
 
@@ -26,7 +26,7 @@ Drei Rollen je System. Die Abgrenzung ist wichtiger als die Namen: Was eine Roll
 
 ## Freigebender
 
-**Wer:** die Person, die über die Inbetriebnahme entscheidet — nach Risiko gestaffelt.
+**Wer:** die Person, die über die Inbetriebnahme entscheidet – nach Risiko gestaffelt.
 
 **Aufgabe:** vor Inbetriebnahme prüfen, ob die Maßnahmen **wirksam** sind, nicht ob sie geplant sind.
 
@@ -46,7 +46,7 @@ Ausführlich: [Freigabetore und Delegation](./go-live-gates-and-delegation.md)
 
 **Nicht verhandelbar ist nur eines:** Eigentümer und Prüfer sind nicht dieselbe Person. Alles andere lässt sich zusammenlegen.
 
-Wo auch das nicht geht — drei Leute, einer macht alles —, gilt die abgeschwächte Form, und zwar **ausdrücklich dokumentiert**: Die Umsetzende prüft, und eine zweite Person sieht die Prüfung nach. Das ist weniger wert als eine echte Trennung und mehr als nichts.
+Wo auch das nicht geht – drei Leute, einer macht alles –, gilt die abgeschwächte Form, und zwar **ausdrücklich dokumentiert**: Die Umsetzende prüft, und eine zweite Person sieht die Prüfung nach. Das ist weniger wert als eine echte Trennung und mehr als nichts.
 
 Was nicht geht, ist die Trennung zu **behaupten**. Wenn in einem Prüfprotokoll bei Umsetzung und Prüfung derselbe Name steht, ist das ein nachvollziehbarer Zustand. Wenn dort zwei Namen stehen und tatsächlich eine Person gearbeitet hat, ist das ein anderer Befund.
 
@@ -79,7 +79,7 @@ Die erste Zeile ist der häufigste und der folgenreichste Befund. Die richtige R
 
 ## Vertretung
 
-Für jede Rolle eine Vertretung, mit Namen. Die praktische Probe: Wenn der Eigentümer vier Wochen im Urlaub ist und der Anbieter in dieser Zeit das Modell tauscht — wer bemerkt es?
+Für jede Rolle eine Vertretung, mit Namen. Die praktische Probe: Wenn der Eigentümer vier Wochen im Urlaub ist und der Anbieter in dieser Zeit das Modell tauscht – wer bemerkt es?
 
 Wenn die Antwort „niemand" lautet, ist die Vertretung nicht benannt, sondern angenommen.
 
@@ -92,7 +92,7 @@ Wenn die Antwort „niemand" lautet, ist die Vertretung nicht benannt, sondern a
 | ob ein Werkzeug wegen Art. 5 abgeschaltet wird | nicht abwägbar, aber zu treffen |
 | ob externe Unterstützung geholt wird | Ressourcenentscheidung |
 
-Die zweite Zeile bleibt in der Praxis unausgesprochen. Ein System läuft weiter, obwohl ein Befund offen ist — das ist zulässig und gehört als Entscheidung festgehalten, nicht als Versäumnis entstehen gelassen.
+Die zweite Zeile bleibt in der Praxis unausgesprochen. Ein System läuft weiter, obwohl ein Befund offen ist – das ist zulässig und gehört als Entscheidung festgehalten, nicht als Versäumnis entstehen gelassen.
 
 ## Weiter
 

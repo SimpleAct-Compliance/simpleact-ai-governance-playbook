@@ -4,13 +4,13 @@ Dieses Repository beschreibt ein Betriebsmodell, kein Produkt. Es lebt davon, da
 
 ## Besonders willkommen
 
-- **Was an der Rollentrennung gescheitert ist** — und welche abgeschwächte Form bei Ihnen gehalten hat
+- **Was an der Rollentrennung gescheitert ist** – und welche abgeschwächte Form bei Ihnen gehalten hat
 - **Erfahrungen mit Stundenbudgets**: welcher Aufwand tatsächlich angefallen ist, gemessen gegen die Zuweisung
 - **Ergebnisse der Häufigkeitssortierung**: wie oft stand dieselbe Person in Ihrer Tabelle?
-- **Eskalationen, die nicht stattgefunden haben** — und warum nicht. Das ist der aufschlussreichste Beitrag, den es gibt
+- **Eskalationen, die nicht stattgefunden haben** – und warum nicht. Das ist der aufschlussreichste Beitrag, den es gibt
 - **Freigabetore, die umgangen wurden**, mit dem Grund
 - **Weitere Eskalationsauslöser**, die sich als nötig erwiesen haben
-- **Korrekturen an Rechtsbezügen und Fristen** — mit Fundstelle und Datum
+- **Korrekturen an Rechtsbezügen und Fristen** – mit Fundstelle und Datum
 - **Übersetzungen** einzelner Dokumente
 
 Die vierte Zeile ist die wertvollste. Dieses Repository behauptet, dass Eskalationswege an vier Gründen scheitern; wer einen fünften kennt, sollte ihn melden.
@@ -23,7 +23,7 @@ Die vierte Zeile ist die wertvollste. Dieses Repository behauptet, dass Eskalati
 - **Weitere Rollen.** Drei sind schon an der Grenze dessen, was eine Organisation unter 100 Beschäftigten besetzen kann
 - Reine Umformulierungen
 
-Alle vier sind bewusste Entscheidungen. Wer sie für falsch hält, gern — aber mit Begründung im Issue.
+Alle vier sind bewusste Entscheidungen. Wer sie für falsch hält, gern – aber mit Begründung im Issue.
 
 ## Was hier nicht wiederholt wird
 
@@ -43,4 +43,4 @@ Beiträge stehen unter der MIT-Lizenz dieses Repositories. Inhalte hier sind kei
 
 ## Kodierung
 
-Alle Dateien sind UTF-8. Das klingt selbstverständlich, war es in diesem Repository aber eine Weile nicht — deutsche Umlaute erschienen auf GitHub als Ersatzzeichen. Wer unter Windows arbeitet, prüft das vor dem Commit.
+Alle Dateien sind UTF-8. Das klingt selbstverständlich, war es in diesem Repository aber eine Weile nicht – deutsche Umlaute erschienen auf GitHub als Ersatzzeichen. Wer unter Windows arbeitet, prüft das vor dem Commit.

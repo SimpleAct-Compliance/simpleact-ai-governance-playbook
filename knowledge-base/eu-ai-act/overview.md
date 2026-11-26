@@ -1,4 +1,4 @@
-# Was wann gilt — und was heute Zuständigkeit braucht
+# Was wann gilt – und was heute Zuständigkeit braucht
 
 Für ein Governance-Modell ist die Fristentabelle keine Rechtskunde, sondern eine Zuweisungsfrage: Welche Pflicht braucht **heute** eine Person mit Namen?
 
@@ -31,13 +31,13 @@ Art. 4 ist die einzige Zeile mit **laufendem** Aufwand: Neue Personen kommen hin
 
 Sie verschiebt den Pflichtenkatalog, nicht zwei Zuweisungen, die heute gebraucht werden:
 
-**Die Rollenfrage.** Ob die Organisation nach Art. 25 Anbieter geworden ist, entscheidet sich mit dem Tag des Einsatzes, nicht 2027. Diese Frage braucht eine Stelle, die sie stellt — und zwar am Freigabetor, nicht im Jahresaudit.
+**Die Rollenfrage.** Ob die Organisation nach Art. 25 Anbieter geworden ist, entscheidet sich mit dem Tag des Einsatzes, nicht 2027. Diese Frage braucht eine Stelle, die sie stellt – und zwar am Freigabetor, nicht im Jahresaudit.
 
 **Die vier nicht nachholbaren Anhang-IV-Abschnitte.** Entwurfsentscheidungen, Datenherkunft, Testergebnisse, Änderungsverlauf. Sie entstehen laufend oder gar nicht, und sie brauchen heute einen Zuständigen in der Entwicklung.
 
 ## Die Pflicht, die quer liegt
 
-**Art. 14 menschliche Aufsicht.** Sie hängt an der Hochrisikoklasse, aber die Vorkehrung dafür ist heute einzurichten, weil sie nicht aus dem Nichts entsteht: Wer die Zahl der geänderten Ausgaben nicht erhebt, kann später nicht belegen, dass Aufsicht ausgeübt wurde — und merkt auch nicht, wenn sie nachlässt.
+**Art. 14 menschliche Aufsicht.** Sie hängt an der Hochrisikoklasse, aber die Vorkehrung dafür ist heute einzurichten, weil sie nicht aus dem Nichts entsteht: Wer die Zahl der geänderten Ausgaben nicht erhebt, kann später nicht belegen, dass Aufsicht ausgeübt wurde – und merkt auch nicht, wenn sie nachlässt.
 
 Zuständig ist der **Fachbereich**, in dem die Ausgabe anfällt. Zentral ist diese Zahl nicht erhebbar.
 

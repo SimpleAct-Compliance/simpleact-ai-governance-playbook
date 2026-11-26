@@ -7,11 +7,11 @@
 
 ## Die drei Dinge, die diese Vorlagen anders machen
 
-**Das Stundenbudget steht drin.** Eine Zuständigkeit ohne Zeit ist eine Hoffnung — und wird in zwölf Monaten als Versäumnis der Person gelesen, nicht der Organisation, die sie nicht ausgestattet hat. Dazu gehört eine zweite Spalte mit dem geschätzten tatsächlichen Aufwand: Eine Abweichung um den Faktor drei ist ein Befund.
+**Das Stundenbudget steht drin.** Eine Zuständigkeit ohne Zeit ist eine Hoffnung – und wird in zwölf Monaten als Versäumnis der Person gelesen, nicht der Organisation, die sie nicht ausgestattet hat. Dazu gehört eine zweite Spalte mit dem geschätzten tatsächlichen Aufwand: Eine Abweichung um den Faktor drei ist ein Befund.
 
 **Die Tabelle wird nach Häufigkeit sortiert.** Wer achtzehnmal als Eigentümer eingetragen ist, ist überlastet, und das fällt sonst erst bei der Kündigung auf. Diese Auswertung dauert eine Minute und wird fast nie gemacht.
 
-**Dokumentierte Abweichungen haben einen eigenen Abschnitt.** Wenn die Rollentrennung nicht möglich ist — drei Leute, einer macht alles —, gehört das hinein und nicht verschwiegen. Die abgeschwächte Form ist weniger wert als eine echte Trennung und mehr als nichts; was nicht geht, ist die Trennung zu behaupten.
+**Dokumentierte Abweichungen haben einen eigenen Abschnitt.** Wenn die Rollentrennung nicht möglich ist – drei Leute, einer macht alles –, gehört das hinein und nicht verschwiegen. Die abgeschwächte Form ist weniger wert als eine echte Trennung und mehr als nichts; was nicht geht, ist die Trennung zu behaupten.
 
 ## Die Spalten, die sonst fehlen
 
@@ -27,11 +27,11 @@ Die letzte ist die lehrreichste des ganzen Modells. Steht dort über Monate nur 
 
 ## Reihenfolge beim ersten Mal
 
-1. **Teil 3 der Zuständigkeitstabelle** — die fünf Pflichten, die heute eine Zuständigkeit brauchen. Fünf Zeilen, in einer Stunde gefüllt.
-2. **Teil 1** — Rollen je System. Hier fällt auf, wo Eigentümer fehlen.
-3. **Teil 2** — Stundenbudget, und die Sortierung nach Häufigkeit. Das ist der unangenehme Teil und der wertvollste.
-4. **Prüfturnus Teil 2** — die ereignisbezogenen Vorkehrungen für die drei Auslöser, die man von selbst nicht bemerkt.
-5. **Prüfturnus Teil 1** — den Turnusplan, mit Personen statt Kalenderregeln.
+1. **Teil 3 der Zuständigkeitstabelle** – die fünf Pflichten, die heute eine Zuständigkeit brauchen. Fünf Zeilen, in einer Stunde gefüllt.
+2. **Teil 1** – Rollen je System. Hier fällt auf, wo Eigentümer fehlen.
+3. **Teil 2** – Stundenbudget, und die Sortierung nach Häufigkeit. Das ist der unangenehme Teil und der wertvollste.
+4. **Prüfturnus Teil 2** – die ereignisbezogenen Vorkehrungen für die drei Auslöser, die man von selbst nicht bemerkt.
+5. **Prüfturnus Teil 1** – den Turnusplan, mit Personen statt Kalenderregeln.
 6. Der Rest.
 
 Schritt 3 vor Schritt 4: Wer Vorkehrungen einrichtet, ohne die Überlast zu kennen, verteilt sie an Leute, die sie nicht tragen können.
@@ -48,7 +48,7 @@ Zur ersten Zeile: Gremien können beraten und vorbereiten. Verantworten kann nur
 
 ## Format
 
-Markdown, damit frühere Fassungen erhalten bleiben. Für eine Zuständigkeitstabelle ist das inhaltlich wesentlich: In einer Prüfung wird gefragt, **wer zu einem bestimmten Zeitpunkt zuständig war** — nicht, wer es heute ist.
+Markdown, damit frühere Fassungen erhalten bleiben. Für eine Zuständigkeitstabelle ist das inhaltlich wesentlich: In einer Prüfung wird gefragt, **wer zu einem bestimmten Zeitpunkt zuständig war** – nicht, wer es heute ist.
 
 ## Weiter
 

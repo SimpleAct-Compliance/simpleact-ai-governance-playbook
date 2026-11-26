@@ -18,7 +18,7 @@ Die Zahl der Einträge sagt dagegen nichts: Ein Register kann wachsen und gleich
 
 **Häufigkeit derselben Person in der Zuständigkeitstabelle.**
 
-Die Tabelle einmal jährlich nach Häufigkeit sortieren ist die nützlichste Auswertung des ganzen Modells. Wer achtzehnmal als Eigentümer eingetragen ist, ist überlastet — und das fällt sonst erst bei der Kündigung auf.
+Die Tabelle einmal jährlich nach Häufigkeit sortieren ist die nützlichste Auswertung des ganzen Modells. Wer achtzehnmal als Eigentümer eingetragen ist, ist überlastet – und das fällt sonst erst bei der Kündigung auf.
 
 Die richtige Reaktion ist eine **Ressourcenentscheidung**, nicht eine Umverteilung derselben Last auf dieselbe Person.
 
@@ -35,13 +35,13 @@ Die letzte Zeile ist die Verbindung zum Inventar: Ein Aufnahmeweg mit acht Felde
 
 ## Die Probe für die Vertretung
 
-Wenn der Eigentümer vier Wochen im Urlaub ist und der Anbieter in dieser Zeit das Modell tauscht — wer bemerkt es?
+Wenn der Eigentümer vier Wochen im Urlaub ist und der Anbieter in dieser Zeit das Modell tauscht – wer bemerkt es?
 
 Lautet die Antwort „niemand", ist die Vertretung nicht benannt, sondern angenommen. Das ist die häufigste Lücke in Zuständigkeitstabellen, und sie fällt nur im Urlaub auf.
 
 ## Verweise, die ein Eintrag tragen muss
 
-Ein Register, das nur auf sich selbst verweist, erzeugt Doppelarbeit — und Doppelarbeit ist der häufigste Grund, aus dem Register veralten.
+Ein Register, das nur auf sich selbst verweist, erzeugt Doppelarbeit – und Doppelarbeit ist der häufigste Grund, aus dem Register veralten.
 
 | Verweis | Wofür |
 |---|---|
@@ -62,7 +62,7 @@ Je mehr dieser Verweise automatisch entstehen, desto langsamer veraltet das Regi
 | **Leitung** | weist zu, einschließlich Stundenbudget; sortiert jährlich nach Häufigkeit |
 | Compliance | hält die Tabelle, erinnert, meldet Lücken |
 | Fachbereiche | melden Wechsel, Abgänge, Überlast |
-| Personalbereich | meldet Austritte — der häufigste Grund für verwaiste Einträge |
+| Personalbereich | meldet Austritte – der häufigste Grund für verwaiste Einträge |
 
 Die letzte Zeile ist eine kleine, wirksame Verbindung: Ein Austritt erzeugt verwaiste Zuständigkeiten, und zwar sofort. Wer diese Meldung nicht hat, findet sie erst in der nächsten Turnusprüfung.
 
@@ -79,7 +79,7 @@ Die dritte Zeile ist die, die in der Praxis fehlt: Bei einem Wechsel verschwinde
 
 ## Abgeschaltete Systeme
 
-Der Eintrag bleibt, mit Status und Datum. In einer Prüfung wird gefragt, was zu einem bestimmten Zeitpunkt lief — und wer dafür zuständig war.
+Der Eintrag bleibt, mit Status und Datum. In einer Prüfung wird gefragt, was zu einem bestimmten Zeitpunkt lief – und wer dafür zuständig war.
 
 Dasselbe gilt für geänderte Einstufungen und gewechselte Zuständigkeiten: Die neue Angabe ersetzt die alte nicht.
 

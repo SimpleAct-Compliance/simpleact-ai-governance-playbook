@@ -26,7 +26,7 @@ Dieses Repository behandelt eine **Querschnittsfrage**: Wer entscheidet, prüft 
 | [Governance-Rahmenwerk](https://github.com/SimpleAct-Compliance/simpleact-ai-governance-framework) | das Dach: wie die fünf Bereiche zusammenhängen. Dieses Repository füllt den Bereich Governance aus |
 | [KI-Inventar](https://github.com/SimpleAct-Compliance/simpleact-ai-system-inventory) | dort steht die Zuständigkeit je Eintrag; das Zuständigkeitsmodell dort und die Tabelle hier beschreiben dasselbe |
 | [Prüfliste AI Act](https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist) | der Mindeststandard für Prüfpunkte, und die Rollentrennung bei der Feststellung |
-| [Audit-Vorbereitung](https://github.com/SimpleAct-Compliance/simpleact-ai-audit-readiness) | das Lückenprotokoll mit der Spalte Verschiebungen — die Grundlage für einen der vier Eskalationsauslöser |
+| [Audit-Vorbereitung](https://github.com/SimpleAct-Compliance/simpleact-ai-audit-readiness) | das Lückenprotokoll mit der Spalte Verschiebungen – die Grundlage für einen der vier Eskalationsauslöser |
 | [Vorfallmanagement](https://github.com/SimpleAct-Compliance/simpleact-incident-management) | Eskalation im Vorfall, Art. 72 und 73 |
 | [Risikoeinstufung](https://github.com/SimpleAct-Compliance/simpleact-ai-risk-classification-eu) | die Klasse, aus der sich die Zuständigkeit ergibt |
 
@@ -53,7 +53,7 @@ Wer den Zusammenhang sucht, liest das Rahmenwerk. Wer Namen in eine Tabelle schr
 | Register, die sich selbst füllen | [Integrationen](https://github.com/SimpleAct-Compliance/simpleact-integrations-apis) |
 | Vorlagen für alles Übrige | [Vorlagensammlung](https://github.com/SimpleAct-Compliance/simpleact-ai-act-templates) |
 
-Das SaaS-Repository ergänzt das Freigabetor um die fünf Fragen, die bei einem **Release** zu stellen sind — für Produktanbieter ist das der praktisch wichtigere Tortyp.
+Das SaaS-Repository ergänzt das Freigabetor um die fünf Fragen, die bei einem **Release** zu stellen sind – für Produktanbieter ist das der praktisch wichtigere Tortyp.
 
 ## Datenschutzseite
 
@@ -63,10 +63,10 @@ Die Zuweisungen laufen parallel und überschneiden sich stark.
 |---|---|
 | [DSGVO-Grundlagen](https://github.com/SimpleAct-Compliance/simpleact-gdpr-compliance-workspace) | Verarbeitungsverzeichnis, Rechtsgrundlagen, Betroffenenrechte |
 | [DSFA und FRIA](https://github.com/SimpleAct-Compliance/simpleact-dpia-dsfa-workflow) | Art. 35 DSGVO beim Datenschutz, Art. 27 AI Act beim Betreiber |
-| [Datenschutzverletzungen](https://github.com/SimpleAct-Compliance/simpleact-gdpr-data-breach-management) | 72 Stunden ab Kenntnis — und die Festlegung, wer die Kenntnis hat |
+| [Datenschutzverletzungen](https://github.com/SimpleAct-Compliance/simpleact-gdpr-data-breach-management) | 72 Stunden ab Kenntnis – und die Festlegung, wer die Kenntnis hat |
 
 Die letzte Zeile ist die, die eine Festlegung im Playbook braucht: Der häufigste Fehler ist, dass der Support eine Meldung als Qualitätsproblem bearbeitet, während die Frist läuft.
 
 ## Tarifgenaue Anbieterangaben
 
-Für die Zuweisung an die Beschaffung: ein öffentliches Register mit tarifgenauen Angaben einzelner KI-Werkzeuge, jede mit Quelle und Prüfdatum — **[actcomp.de](https://actcomp.de)**
+Für die Zuweisung an die Beschaffung: ein öffentliches Register mit tarifgenauen Angaben einzelner KI-Werkzeuge, jede mit Quelle und Prüfdatum – **[actcomp.de](https://actcomp.de)**

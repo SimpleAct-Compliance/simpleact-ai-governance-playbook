@@ -1,6 +1,6 @@
 # Freigabetore und Delegation
 
-Das Freigabetor ist der Punkt, an dem Governance wirkt — oder zur Formalie wird. Es gibt keinen zweiten Anlass: Was hier nicht gefragt wird, bleibt dauerhaft unbeantwortet.
+Das Freigabetor ist der Punkt, an dem Governance wirkt – oder zur Formalie wird. Es gibt keinen zweiten Anlass: Was hier nicht gefragt wird, bleibt dauerhaft unbeantwortet.
 
 ## Was ein Tor prüft
 
@@ -9,7 +9,7 @@ Nicht, ob Maßnahmen geplant sind. Ob sie **wirksam** sind.
 | Frage | Formale Antwort | Antwort, die trägt |
 |---|---|---|
 | Kennzeichnung nach Art. 50 umgesetzt? | Haken | „zeig mir den Hinweis im laufenden System, in jeder Ansicht" |
-| Aufsicht zugewiesen? | Haken | „bei 300 Fällen am Tag — in welcher Zeit, mit welcher Befugnis?" |
+| Aufsicht zugewiesen? | Haken | „bei 300 Fällen am Tag – in welcher Zeit, mit welcher Befugnis?" |
 | Pflichten verteilt? | Haken | „an welche Person, bis wann?" |
 | Geschult? | Haken | „zu welchem Inhalt, an welchem Datum, welche Personen?" |
 | Nachweise abgelegt? | Haken | „fordere einen an, wir messen die Zeit" |
@@ -24,7 +24,7 @@ Unabhängig von der Klasse:
 2. Ist die **Rolle** bestimmt, und wurde **Art. 25** geprüft?
 3. Wurde **Art. 5** geprüft, alle zehn Praktiken?
 4. Greift **Art. 50**, und ist die Kennzeichnung im System sichtbar?
-5. Ist die **Aufsicht ausübbar** — gemessen am Mengengerüst?
+5. Ist die **Aufsicht ausübbar** – gemessen am Mengengerüst?
 
 Frage 5 ist die, die am häufigsten mit einem Haken statt mit einer Zahl beantwortet wird.
 
@@ -39,7 +39,7 @@ Ein Tor, das für jedes System dieselbe Instanz verlangt, wird umgangen oder blo
 | Transparenzpflicht (Art. 50) | wie oben, plus Nachweis der Kennzeichnung | kurz |
 | berührt einen **Anhang-III-Bereich** | Geschäftsführung, nach rechtlicher Bewertung | mit Vorlauf |
 | Hochrisiko | Geschäftsführung | Projekt |
-| **Art.-5-Treffer** | keine Freigabe möglich | — |
+| **Art.-5-Treffer** | keine Freigabe möglich | – |
 
 Die vierte Zeile ist die wichtigste: Nicht erst bei festgestelltem Hochrisiko, sondern schon bei der **Berührung** eines Anhang-III-Bereichs geht die Freigabe nach oben. Sonst wird die Rollenfrage nach Art. 25 auf der Fachbereichsebene entschieden, wo sie nicht entschieden werden kann.
 
@@ -51,12 +51,12 @@ Die vierte Zeile ist die wichtigste: Nicht erst bei festgestelltem Hochrisiko, s
 | Pflege des Eintrags | ja |
 | Einstufung bei minimalem Risiko | ja, mit Prüfer |
 | Freigabe bei minimalem Risiko | ja |
-| **Berufung auf Art. 6 Abs. 3** | **nein** — braucht dokumentierte Bewertung und Freigabe |
-| **Weiterbetrieb mit offenem Befund** | **nein** — Risikoentscheidung |
+| **Berufung auf Art. 6 Abs. 3** | **nein** – braucht dokumentierte Bewertung und Freigabe |
+| **Weiterbetrieb mit offenem Befund** | **nein** – Risikoentscheidung |
 | **Abschaltung nach Art.-5-Treffer** | **nein** |
 | Zuweisung von Stundenbudgets | nein |
 
-Die dritte Nein-Zeile ist streng und einfach: Ein Art.-5-Treffer ist nicht abwägbar, und die Entscheidung über die Folge — Abschaltung, Alternativen, Mitteilung an Betroffene — gehört an die Stelle, die sie verantworten kann.
+Die dritte Nein-Zeile ist streng und einfach: Ein Art.-5-Treffer ist nicht abwägbar, und die Entscheidung über die Folge – Abschaltung, Alternativen, Mitteilung an Betroffene – gehört an die Stelle, die sie verantworten kann.
 
 Die erste Nein-Zeile wird oft übersehen: Die Ausnahme nach Art. 6 Abs. 3 wirkt wie eine technische Einschätzung und ist eine Entscheidung mit Haftungsfolge.
 
@@ -71,7 +71,7 @@ Die erste Nein-Zeile wird oft übersehen: Die Ausnahme nach Art. 6 Abs. 3 wirkt 
 | Vertretung | |
 | Berichtspflicht | was gemeldet wird, an wen, wie oft |
 
-Die Grenze ist der Teil, der fehlt. Eine Delegation ohne Grenze verlagert auch die Entscheidungen, die nicht verlagert werden sollten — und zwar unbemerkt, weil niemand sie als Grenzfall erkennt.
+Die Grenze ist der Teil, der fehlt. Eine Delegation ohne Grenze verlagert auch die Entscheidungen, die nicht verlagert werden sollten – und zwar unbemerkt, weil niemand sie als Grenzfall erkennt.
 
 ## Nach der Freigabe
 

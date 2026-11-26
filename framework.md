@@ -15,30 +15,30 @@ Vier Fragen. Die letzte entscheidet, ob die ersten drei etwas wert sind.
 | Prüfer | Compliance, Datenschutz, Leitung | mit dem Eigentümer identisch sein |
 | Freigebender | nach Risiko gestaffelt | unterschreiben, ohne nachzusehen |
 
-Nicht verhandelbar ist eines: **Eigentümer und Prüfer sind nicht dieselbe Person.** Alles andere lässt sich in kleinen Organisationen zusammenlegen — und wo auch das nicht geht, gilt die abgeschwächte Form **ausdrücklich dokumentiert**, nicht die behauptete Trennung.
+Nicht verhandelbar ist eines: **Eigentümer und Prüfer sind nicht dieselbe Person.** Alles andere lässt sich in kleinen Organisationen zusammenlegen – und wo auch das nicht geht, gilt die abgeschwächte Form **ausdrücklich dokumentiert**, nicht die behauptete Trennung.
 
 ## Was eine Zuständigkeit braucht
 
-Person, **Stundenbudget**, Vertretung. Fehlt das Stundenbudget, ist es eine Hoffnung — und wird in zwölf Monaten als Versäumnis der Person gelesen, nicht der Organisation.
+Person, **Stundenbudget**, Vertretung. Fehlt das Stundenbudget, ist es eine Hoffnung – und wird in zwölf Monaten als Versäumnis der Person gelesen, nicht der Organisation.
 
 ## Was zentral nicht geht
 
 | Aufgabe | Zentral |
 |---|---|
 | Fristen, Planung, Art.-5-Prüfung, Schulung | ja |
-| **Inventareinträge aktuell halten** | nein — nur der Fachbereich merkt Veränderungen |
-| **Aufsicht ausüben** | nein — dort, wo die Ausgabe anfällt |
+| **Inventareinträge aktuell halten** | nein – nur der Fachbereich merkt Veränderungen |
+| **Aufsicht ausüben** | nein – dort, wo die Ausgabe anfällt |
 
 ## Das Freigabetor
 
 Es fragt, ob Maßnahmen **wirksam** sind, nicht ob sie geplant sind. Vier Fragen, acht Minuten:
 
 - Zeig mir den Hinweis nach Art. 50 im laufenden System, in jeder Ansicht.
-- Bei 300 Fällen am Tag — in welcher Zeit wird geprüft, mit welcher Befugnis?
+- Bei 300 Fällen am Tag – in welcher Zeit wird geprüft, mit welcher Befugnis?
 - Welche Person hat welche Pflicht, bis wann?
 - Fordere einen Nachweis an, wir messen die Zeit.
 
-**Und die Freigabe geht nach oben, sobald die Ausgabe einen Anhang-III-Bereich berührt** — nicht erst bei festgestelltem Hochrisiko. Sonst wird die Rollenfrage nach Art. 25 auf der Fachbereichsebene entschieden.
+**Und die Freigabe geht nach oben, sobald die Ausgabe einen Anhang-III-Bereich berührt** – nicht erst bei festgestelltem Hochrisiko. Sonst wird die Rollenfrage nach Art. 25 auf der Fachbereichsebene entschieden.
 
 ## Vier Eskalationsauslöser
 
@@ -55,7 +55,7 @@ Und eine Eskalation braucht einen **Entscheidungsvorschlag**: „Hier ist ein Pr
 
 ## Was nicht delegierbar ist
 
-Berufung auf Art. 6 Abs. 3; Weiterbetrieb mit offenem Befund; Abschaltung nach einem Art.-5-Treffer; Zuweisung von Stundenbudgets. Jede Delegation braucht außerdem eine **Grenze** — sonst verlagert sie unbemerkt auch die Entscheidungen, die bleiben sollten.
+Berufung auf Art. 6 Abs. 3; Weiterbetrieb mit offenem Befund; Abschaltung nach einem Art.-5-Treffer; Zuweisung von Stundenbudgets. Jede Delegation braucht außerdem eine **Grenze** – sonst verlagert sie unbemerkt auch die Entscheidungen, die bleiben sollten.
 
 ## Turnus ist eine Untergrenze
 

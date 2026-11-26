@@ -11,7 +11,7 @@ Ein Jahresturnus als einzige Maßnahme bedeutet: im Mittel ein halbes Jahr lang 
 
 Die ereignisbezogene ist die wirksame, weil die relevanten Änderungen unregelmäßig auftreten: Ein Modellwechsel beim Anbieter kündigt sich nicht zum Jahreswechsel an.
 
-## Die sechs Auslöser — und welche man ohne Vorkehrung nicht bemerkt
+## Die sechs Auslöser – und welche man ohne Vorkehrung nicht bemerkt
 
 | Auslöser | Bemerkt man ihn von selbst? | Vorkehrung |
 |---|---|---|
@@ -26,7 +26,7 @@ Die drei Nein-Zeilen brauchen eine eigene Vorkehrung, sonst sind sie bloß Zeile
 
 **Testsatz.** Zwanzig Eingaben mit erwarteten Ausgaben, automatisch monatlich, Abweichungen protokolliert, Meldung an eine benannte Person. Die einzige Vorkehrung gegen einen Modellwechsel, die ohne Mitwirkung des Anbieters funktioniert.
 
-**Aufsichtskennzahl.** Wie viele Ausgaben wurden im letzten Monat geändert oder verworfen? Als **Reihe** geführt, nicht als Einzelwert — ein Rückgang ist das Signal, nicht der absolute Wert.
+**Aufsichtskennzahl.** Wie viele Ausgaben wurden im letzten Monat geändert oder verworfen? Als **Reihe** geführt, nicht als Einzelwert – ein Rückgang ist das Signal, nicht der absolute Wert.
 
 **Abonnierte Rechtsquelle.** An eine **Person**, nicht an ein Sammelpostfach. Ein Änderungsverlauf, den niemand liest, ist keine Maßnahme.
 
@@ -72,7 +72,7 @@ Frage 5 ist unangenehm und notwendig. Häufige Ja-Antworten sind ein Befund übe
 
 Die Spalte **bekannt geworden durch** ist die lehrreichste des ganzen Modells. Steht dort über mehrere Prüfungen hinweg nur „Zufall", fehlt kein Feld, sondern ein Verfahren.
 
-Und die Zeilen mit „keine Änderung" sind wertvoll: Die **Reihe** der Prüfungen belegt laufende Pflege. Ein einzelnes aktuelles Protokoll belegt sie nicht — es kann am Vortag entstanden sein.
+Und die Zeilen mit „keine Änderung" sind wertvoll: Die **Reihe** der Prüfungen belegt laufende Pflege. Ein einzelnes aktuelles Protokoll belegt sie nicht – es kann am Vortag entstanden sein.
 
 ## Warum Turnuspflege scheitert
 
